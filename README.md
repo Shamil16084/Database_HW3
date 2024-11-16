@@ -4,7 +4,7 @@ Readme
 
 Written by Shamil Abbasov;<br/>
 
- 
+Note: If you do not have time to read all these and run the scripts seperately, go for the final.sql script which automates all the process. Basically, connect to the database where you want to perform normalization operation, and run final.sql script using \i 'final.sql', but pay attention the the location of the script and use **full path** everywhere as through going the process. The path of the files in my laptop can be diffrent than yours, therefore please pay attention the the **location of files** and again use **full path**. Have a nice read and codes ahead!
 
 In this assignment, we are going to perform normalization operation in a given .XLSX file and do all these operations on PostgreSQL environment. <br/>
 
